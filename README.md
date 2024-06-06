@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notdhruv32
-- 👀 I’m interested in ur mom
+- 👀 I’m interested in tech.
 - - 🌱 I’m currently learning Python, linux, C, Hacking and stuff like that
 - 📫 U can't reach me
 - 😄 Pronouns: attack Helicopter
