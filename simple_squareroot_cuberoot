@@ -6,20 +6,24 @@ int main(){
     int wot, nuum1, a = 1, b = 1, c = 1, result, enter, square, cubee;
     char pls, willu;
     system("cls");
-    do {
+    do
+    {
     system("cls");
     printf("Enter 1 for calculating square roots/square and 2 for cubes/cuberoots: ");
     scanf("%d", &wot);
 
-    switch (wot) {
+    switch (wot)
+    {
     case 1:
     do
     {
     system("cls");
     printf("Enter 1 for squares and 2 for square roots: ");
     scanf("%d", &enter);
-    if (enter == 1) {
-        do {
+    if (enter == 1)
+    {
+        do
+        {
         system("cls");
         printf("Enter the number of whome u wanna find square: ");
         scanf("%d", &square);
@@ -34,7 +38,8 @@ int main(){
 
     }
     else if(enter == 2) {
-        do {
+        do
+    {
     a = 1;
     b = 1;
     result = 0;
@@ -50,7 +55,8 @@ int main(){
     a = a-1;
     b = b-1;
     
-    if (nuum1 == result) {
+    if (nuum1 == result)
+    {
     printf("%d = %d X %d", result, a, b);
     printf("\n--------------------------------------------\nDo you wanna continue [y/n]: ");
     scanf(" %c", &pls);
@@ -73,13 +79,15 @@ int main(){
     
     
     case 2:
-    do {
+    do
+    {
     system("cls");
     printf("Enter 1 for cubing and 2 for cube roots: ");
     scanf(" %d", &enter);
     if (enter == 1)
     {
-        do {
+        do
+        {
         system("cls");
         printf("Enter the number of whome u wanna find Cube: ");
         scanf("%d", &cubee);
@@ -93,7 +101,8 @@ int main(){
         exit(0);
     }
     else if (enter == 2) {
-        do {
+        do
+    {
     a = 1;
     b = 1;
     c = 1;
@@ -112,7 +121,8 @@ int main(){
     b = b-1;
     c = c-1;
     
-    if (nuum1 == result) {
+    if (nuum1 == result)
+    {
     printf("%d = %d X %d X %d", result, a, b, c);
     printf("\n--------------------------------------------\nDo you wanna continue [y/n]: ");
     scanf(" %c", &pls);
