@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @notdhruv32
-- 👀 I’m interested in tech.
-- - 🌱 I’m currently learning Python, linux, C, Hacking and stuff like that
-- 📫 U can't reach me
-- 😄 Pronouns: attack Helicopter
+- 👀 I’m interested in that colourful text on that black screen.
+- - 🌱 I’m currently learning :
+  - C
+  - C++
+  - Python
+  - Linux OS
+- 📫 not this one
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: PCs are better than consoles 
 
 <!---
