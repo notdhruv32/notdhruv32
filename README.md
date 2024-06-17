@@ -7,7 +7,7 @@
   - Linux OS
 - 📫 not this one
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: PCs are better than consoles 
+- ⚡ Fun fact: Laptops/macbooks > PCs > Consoles
 
 <!---
 notdhruv32/notdhruv32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
