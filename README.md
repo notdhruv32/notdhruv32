@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @notdhruv32
-- 👀 I’m interested in that colourful text on that black screen.
+- 👀 I’m interested in those colourful letters.
 - - 🌱 I’m currently learning :
   - C
   - C++
   - Python
-  - Linux OS
+  - Kali Linux 
 - 📫 not this one
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Laptops/macbooks > PCs > Consoles
