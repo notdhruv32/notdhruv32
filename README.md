@@ -4,7 +4,9 @@
   - C
   - C++
   - Python
-  - Kali Linux 
+  - Javascript
+  - Linux
+  - Ethical Hacking 
 - 📫 not this one
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Laptops/macbooks > PCs > Consoles
