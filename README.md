@@ -9,7 +9,7 @@
   - Ethical Hacking 
 - 📫 not this one
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Laptops/macbooks > PCs > Consoles
+- ⚡ Fun fact: CLI > GUI
 
 <!---
 notdhruv32/notdhruv32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
